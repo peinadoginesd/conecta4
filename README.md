@@ -1,2 +1,2 @@
-# conecta4
-Juego **CONECTA 4** en *haskell*
+### Conecta 4
+Juego **Conecta 4** en *haskell*
