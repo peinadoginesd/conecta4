@@ -5,8 +5,7 @@
     ESCRIBIR conectaCuatro EN TERMINAL PARA EMPEZAR A JUGAR.
     Observaciones:
         Para que no se diese el caso de que a mismos movimientos se diese siempre la misma partida,
-    intentamos importar la librería System.Random para elegir aleatoriamente entre las jugadas con la mejor valoración.
-    Sin embargo, no hemos sido capaces ya que dicha librería no estaba instalada y no hemos sabido instalarla.
+        System.Random permite elegir aleatoriamente entre las mejores jugadas, pero no está implementado actualmente.
                                                                                                                         -}
 import Data.List
 import Data.Maybe
